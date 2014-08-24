@@ -1,0 +1,3 @@
+## OnePlatform
+
+OnePlatform is a skeleton for all One* services! Its powerful, robust, and extensible...
